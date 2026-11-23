@@ -2,7 +2,7 @@
 
 A geography trainer for 66 countries: capitals both ways, continents and “which capital is further north”, with multiple-choice or typed answers, a dot map of every capital, a distance tool, a searchable reference and a history of scores and frequent misses.
 
-**Live demo:** [https://mapwise.vercel.app/](https://mapwise.vercel.app/) — runs entirely in your browser; demo history is fictional and labelled.
+**Live demo:** [https://mapwise-app.vercel.app/](https://mapwise-app.vercel.app/) — runs entirely in your browser; demo history is fictional and labelled.
 
 ![Landing with a quiz question and the capitals map](docs/landing.png)
 
